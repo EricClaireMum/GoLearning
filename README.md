@@ -1,4 +1,5 @@
 # Learning material about GO 
-> I would like to share with you some basic information about GO. Hope it can help you to quick start. If you have additional comments, please contact me 3063237817@qq.com
-## Enviroment Setup <br>
-## Tutorial <br>
+> 分享一些GO学习的基础资料，希望能够帮助大家快速启动，有问题请联系3063237817@qq.com
+## 教程 <br>
+  -[基础教程(包含环境搭建和基本语法)](https://www.runoob.com/go/go-tutorial.html)
+
