@@ -8,7 +8,7 @@
   -[LiteIDE 安装](https://www.cnblogs.com/mophy/p/8662552.html)<br>
   -[GoLang](https://www.jetbrains.com/go/)
 ## 相关组件 <br> 
-  -[ORM(Object Relation Map)](https://www.jianshu.com/p/f1f9bbcff4dc)  [gorm](github.com/jinzhu/gorm) <BR>
+  -[ORM(Object Relation Map)](https://www.jianshu.com/p/f1f9bbcff4dc)  [gorm](https://github.com/jinzhu/gorm) <BR>
   -[dotweb(web服务框架)](https://github.com/devfeel/dotweb)<BR>
 ## 案例
   -[GO 编写的Blog服务端](https://github.com/lyw1995/Golang-Blog-Server)<br>
