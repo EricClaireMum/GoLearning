@@ -6,5 +6,8 @@
   -[英文教程](https://www.golang-book.com/books/intro)
 ## 开发工具 <br>
   -[LiteIDE 安装](https://www.cnblogs.com/mophy/p/8662552.html)<br>
+  -[GoLang](https://www.jetbrains.com/go/)
+## 相关组件 <br> 
+  -[ORM(Object Relation Map)](https://www.jianshu.com/p/f1f9bbcff4dc)
 ## 案例
   -[GO 编写的Blog服务端](https://github.com/lyw1995/Golang-Blog-Server)<br>
