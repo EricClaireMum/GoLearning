@@ -13,4 +13,5 @@
   -[beego(web服务框架)](https://beego.me/)
 ## 案例
   -[GO 编写的Blog服务端](https://github.com/lyw1995/Golang-Blog-Server)<br>
-  -[基于beego的API管理网站] (https://github.com/george518/PPGo_ApiAdmin)
+  -[基于beego的API管理网站] (https://github.com/george518/PPGo_ApiAdmin)<br>
+  -[基于Gin + Vue + Element UI的前后端分离权限管理系统](https://github.com/wenjianzhang/go-admin)<Br>
